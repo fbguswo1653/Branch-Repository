@@ -1,5 +1,5 @@
-gfadsgbjhabskdjbvkjhasdkljhvniueahasdfsadsdfsfkjsdlvms):sadf
-    # Last elemafasdfsdjkbakjsbvkljbavkljsbvkjsabvkjasbvklsabdvkasjbvkjdasblkvbointer
+gfadsgbjhabskdjbvkjhasdkljhvniueahasdfsadsdfsfkjsdlvms):sadfsadsadadsadasdxzvzxcvxczvxcv
+    # Last elemafasdfsdjk
     pivot, ptr = nums[r], l
     for i in range(l, r):
         if nums[i] <= pivot:
